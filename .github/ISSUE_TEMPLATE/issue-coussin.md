@@ -2,7 +2,7 @@
 name: Issue coussin
 about: Créer une feature pour limiter les erreurs utilisateurs
 title: "[COUSSIN]"
-labels: new-feature
+labels: New feature
 assignees: ''
 
 ---
