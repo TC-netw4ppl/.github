@@ -1,0 +1,17 @@
+autoCloseIssue: true
+defaultBranch: 'master/dev'
+branches:
+  - label:
+    - bug
+    - URGENT
+    name: main
+    prefix: hotfix/
+  - label: New feature
+    name: dev
+    prefix: feature/
+  - label: question
+    skip: true
+  - label: wontfix
+    skip: true
+  - label: documentation
+    skip: true
