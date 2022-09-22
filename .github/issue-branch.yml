@@ -1,6 +1,14 @@
 autoCloseIssue: true
 defaultBranch: 'master/dev'
 branches:
+  - label: NoBranch
+    skip: true
+  - label: question
+    skip: true
+  - label: wontfix
+    skip: true
+  - label: documentation
+    skip: true
   - label:
     - bug
     - URGENT
@@ -9,11 +17,4 @@ branches:
   - label: New feature
     name: dev
     prefix: feature/
-  - label: question
-    skip: true
-  - label: wontfix
-    skip: true
-  - label: documentation
-    skip: true
-  - label: NoBranch
-    skip: true
+
