@@ -13,3 +13,6 @@ Liste des issues associées (mettre closed devant fermera automatiquement l'issu
 - [ ] Ça compile / Pas de bug apparant
 - [ ] Le code est commenté
 - [ ] J'ai mis à jour le readme
+
+### Feature
+-[ ] 
