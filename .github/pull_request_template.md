@@ -15,4 +15,4 @@ Liste des issues associées (mettre closed devant fermera automatiquement l'issu
 - [ ] J'ai mis à jour le readme
 
 ### Feature
--[ ] 
+- [ ]  
