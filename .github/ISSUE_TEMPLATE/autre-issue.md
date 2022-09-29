@@ -1,14 +1,14 @@
 ---
-name: Autre issue
-about: Pour tout type d'issue
+name: Other Issue
+about: Every other type of issue
 title: "[OTHER]"
 labels: ''
 assignees: ''
 
 ---
 
-**Quel est le but de mon issue ?**
-*Ex : Comment lancer le fichier blabla.py*
+**What is the purpose of this issue ?**
+*ie : Adding a new shiny feature*
 
-**Informations supplémentaires**
-Tu peux mettre toutes les informations que tu souhaites ici. Si tu trouves un label qui colle à la situation, ajoute le !
+**Additional information**
+*You can put all the information you want here. If you find a label that fits the situation, add it!*

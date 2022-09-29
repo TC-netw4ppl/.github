@@ -1,17 +1,17 @@
 ---
-name: Issue coussin
-about: Créer une feature pour limiter les erreurs utilisateurs
+name: issue Coussin
+about: Create a feature to limit user errors
 title: "[COUSSIN]"
 labels: New feature, Coussin
 assignees: ''
 
 ---
 
-**Description du coussin**
-Une description rapide et concise sur le role du coussin
+**Cushion description**
+A quick and concise description of the cushion's role
 
-**Comportement attendu**
-Une description sur ce qu'on veut protéger et pourquoi
+**Expected behavior**
+A description of what is to be protected and why
 
-**Information supplémentaires**
-Quelques infos en plus au cas où
+**Additional information**
+Some extra info just in case

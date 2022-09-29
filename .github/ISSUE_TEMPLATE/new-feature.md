@@ -1,21 +1,21 @@
 ---
 name: New feature
-about: Suggestion de new feature pour le projet
+about: New feature suggestion for the project
 title: "[NEW FEATURE]"
 labels: New feature
 assignees: ''
 
 ---
 
-**Si la requête est associée à un problème, merci de le préciser.**
-Donne une description rapide du problème ou de ce qu'il te frustre dans l'appli.
-Tu peux y associer une issue de [BUG]
+**If the request is associated with a problem, please specify it.**
+Give a quick description of the problem or what it frustrates you in the application.
+You can associate a [BUG] issue to it.
 
-**Description de la solution souhaitée**
-Donne une courte description de ce que tu aimerais voir dans le projet.
+**Description of the desired solution**
+Give a short description of what you would like to see in the project.
 
-**Piste de résolution**
-Si tu as une idée de comment faire, tu peux nous donner des pistes ici !
+**Resolution path**
+If you have an idea of how to do it, you can give us some hints here!
 
-**Informations supplémentaires**
-Tu peux ajouter tout ce que tu veux ici !
+**Additional information**
+You can add anything you want here!

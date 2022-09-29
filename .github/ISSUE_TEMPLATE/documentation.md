@@ -1,15 +1,15 @@
 ---
 name: Documentation
-about: Demande davantage de documentation
+about: Request more documentation
 title: "[DOC]"
 labels: documentation
 assignees: ''
 
 ---
 
-**Que manque-t-il dans la documentation ?**
-*Ex : Détailler l'installation du projet*
-*Ex : Détailler le but du fichier blabla.py*
+**What is missing in the documentation?**
+*Ex: Detail the installation of the project*
+*Ex: Detail the purpose of the blabla.py file*
 
-**Informations supplémentaires**
-Tu peux mettre toutes les informations que tu souhaites ici.
+**Additional information**
+You can put all the information you want here.
