@@ -7,7 +7,7 @@ List of related issues that are fixed by this PR :
 - Closed #12
 - Closed #18
 - …
- 
+
 
 ### Checklist
 - [ ] Compiling
