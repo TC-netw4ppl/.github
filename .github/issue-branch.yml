@@ -17,7 +17,7 @@ branches:
   - label: New feature
     name: dev
     prefix: feature/
- - label: enhancement
+  - label: enhancement
     name: dev
     prefix: feature/
 
