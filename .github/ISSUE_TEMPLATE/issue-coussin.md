@@ -4,6 +4,7 @@ about: Create a feature to limit user errors
 title: "[COUSSIN]"
 labels: New feature, Coussin
 assignees: ''
+project: 'Project Board'
 
 ---
 
