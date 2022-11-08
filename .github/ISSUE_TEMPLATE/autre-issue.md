@@ -4,7 +4,7 @@ about: Every other type of issue
 title: "[OTHER]"
 labels: ''
 assignees: ''
-
+project: 'Project Board'
 ---
 
 **What is the purpose of this issue ?**
