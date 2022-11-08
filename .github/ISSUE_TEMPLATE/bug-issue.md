@@ -4,6 +4,7 @@ about: Create a bug report so that it can be processed as soon as possible!
 title: "[BUG]"
 labels: bug
 assignees: ''
+project: 'Project Board'
 
 ---
 
