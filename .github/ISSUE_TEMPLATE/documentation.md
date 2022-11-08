@@ -4,6 +4,7 @@ about: Request more documentation
 title: "[DOC]"
 labels: documentation
 assignees: ''
+project: 'Project Board'
 
 ---
 
