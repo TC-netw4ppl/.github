@@ -4,9 +4,8 @@ Macro description of the PR
 ## Issues fixed
 List of related issues that are fixed by this PR :
 
-- Closed #12
-- Closed #18
-- …
+Fix :
+- #
 
 
 ### Checklist
