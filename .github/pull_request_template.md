@@ -1,10 +1,3 @@
----
-name: PR
-title: "[PR]"
-project: 'Project Board'
-
----
-
 ### Description
 Macro description of the PR
 
