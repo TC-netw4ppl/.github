@@ -1,4 +1,12 @@
 autoCloseIssue: true
+autoLinkIssue: true
+openDraftPR: true
+copyIssueDescriptionToPR: true
+copyIssueLabelsToPR: true
+copyIssueAssigneeToPR: true
+copyIssueProjectsToPR: true
+copyIssueMilestoneToPR: true
+conventionalPrTitles: true
 defaultBranch: 'master/dev'
 branches:
   - label: NoBranch
@@ -8,16 +16,20 @@ branches:
   - label: wontfix
     skip: true
   - label: documentation
-    skip: true
+    prefix: doc/
+    prTarget: 'master/dev'
   - label:
     - bug
     - URGENT
     name: main
     prefix: hotfix/
+    prTarget: 'main'
   - label: New feature
     name: dev
     prefix: feature/
+    prTarget: 'master/dev'
   - label: enhancement
     name: dev
     prefix: feature/
+    prTarget: 'master/dev'
 
